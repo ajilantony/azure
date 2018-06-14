@@ -7,4 +7,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template deploys Sandboxweb-perf environment.
+This template deploys Sandboxweb Perf environment.
